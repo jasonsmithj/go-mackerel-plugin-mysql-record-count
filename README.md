@@ -1,0 +1,1 @@
+# go-mackerel-plugin-mysql-record-count
